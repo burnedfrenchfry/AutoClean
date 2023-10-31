@@ -19,7 +19,7 @@ def moving_old_files(folder_path, months_threshold):
             print(f"Moved '{filename}' to recycling bin.")
 
 #Path to cache folder
-cache_folder_path = r'C:\Users\arnes\AppData\Local\Temp'
+cache_folder_path = r'C:\path\to\your\cache\data'
 
 #Timeframe
 months_threshold = 1
